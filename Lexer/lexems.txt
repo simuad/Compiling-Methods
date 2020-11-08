@@ -1,0 +1,15 @@
+| ID| LN| TYPE            | VALUE     
+|  0|  1| INT             |           
+|  1|  1| IDENT           | labas     
+|  2|  1| OP_PAREN_O      |           
+|  3|  1| OP_PAREN_C      |           
+|  4|  1| OP_BRACE_O      |           
+|  5|  2| OP_L_NOT        |           
+|  6|  2| OP_L_NOT        |           
+|  7|  2| OP_L_NOT        |           
+|  8|  2| OP_L_NOT        |           
+|  9|  2| OP_L_NOT        |           
+| 10|  2| IDENT           | a         
+| 11|  2| SEMICOLON       |           
+| 12|  3| OP_BRACE_C      |           
+| 13|  3| EOF             |           
